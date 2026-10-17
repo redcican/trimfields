@@ -1,0 +1,12 @@
+# Installed by data_generation.ipynb; listed here for use without the notebook.
+# With an NVIDIA GPU, install jax[cuda12]>=0.4.30 instead of jax.
+numpy>=1.26
+scipy>=1.13
+matplotlib>=3.9
+contourpy>=1.2.1
+shapely>=2.0.4
+scikit-image>=0.24
+pandas>=2.2.2
+tqdm>=4.66
+cadquery-ocp>=7.7
+jax>=0.4.30
