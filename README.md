@@ -5,7 +5,7 @@ topology optimization on trimmed CAD faces. A design is a set of closed periodic
 curves) in the parameter square of a NURBS host patch, exported as an exact STEP face. This repository holds the
 `trimfields` Python package and the notebook that generates the dataset.
 
-**Dataset download:** `<DATASET_URL>` (placeholder, to be updated when the dataset is published)
+**Dataset download:** `(https://drive.google.com/file/d/123a2Ya-3tpVU9ix4aQUIT-bgrXWSqWXj/view?usp=drive_link)` (placeholder, to be updated when the dataset is published)
 
 ## Contents of the dataset
 
